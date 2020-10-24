@@ -1,8 +1,9 @@
 # Sjablonen
 Start point for multiple purposes.
 
-## Versions
 ---
+## Versions
+
 * ***A1***
 
 Standard html, css, js
